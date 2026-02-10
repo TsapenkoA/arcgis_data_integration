@@ -1,0 +1,7 @@
+SPREADSHEET_ID = "12846JbH2PwR0wN8eLVnosg4xujw-04gKyyD6RuElc-4"
+
+ARCGIS_URL = "https://www.arcgis.com"
+ARCGIS_USERNAME = "Tsapenko"
+ARCGIS_PASSWORD = "Gudymenko40"
+
+FEATURE_LAYER_ITEM_ID = "01e5bcf94428407d8de722d2fb0ed2d9"
